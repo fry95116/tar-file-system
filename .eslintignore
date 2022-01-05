@@ -3,3 +3,4 @@ jest.config.js
 src/libs
 es
 dist
+temp
